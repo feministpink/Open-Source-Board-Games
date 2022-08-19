@@ -10,7 +10,7 @@ Looking forward to playing your versions,
   
 # Well, what now?
 
-Click through the repository to see the assets and read the rules. Check out the videos I made if you want a quick lesson on how to play. If you are interested in playing the game, feel free on following the "blueprints" outlined in the repository to make your on versions at home. If you are an artist/composer feel free to take a look at the art/songs of the game and make your own versions!
+Click through the repository (the folers you'll see right above this) to see the assets and read the rules. Check out the videos I made if you want a quick lesson on how to play. If you are interested in playing the game, feel free on following the "blueprints" outlined in the repository to make your on versions at home. If you are an artist/composer feel free to take a look at the art/songs of the game and make your own versions!
 
 All in all, I want people to make their own copies of the game at home and try challenging themselves by thinking what other ways they would like to see the game to be made. I really hope to someday see versions made by other people :-)
 
